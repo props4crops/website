@@ -1,0 +1,13 @@
+{
+  "short_name": "P4C",
+  "name": "P4C",
+  "icons": [{
+    "src": "favicon.ico",
+    "sizes": "128x128",
+    "type": "image/png"
+  }],
+  "start_url": "localhost:3000",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
